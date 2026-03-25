@@ -1,0 +1,5 @@
+[tool.flet]
+app_name = "Lucky Number"
+app_version = "1.0.0"
+org = "com.example"
+description = "Un petit jeu de devinette de nombre aléatoire"
